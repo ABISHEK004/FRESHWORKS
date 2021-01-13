@@ -1,0 +1,16 @@
+{
+	"firstname" : "Abishek",
+	"lastname"  : "Srinivasan",
+	"address": [
+		{
+			"street" : "E.N",
+			"city"	 : "karur",
+			"state"  : "TN"
+		},
+		{
+			"street" : "E.N2",
+			"city"	 : "karur2",
+			"state"  : "TN2"
+		}
+	]
+}
